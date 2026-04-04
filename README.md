@@ -29,7 +29,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [🌾 NazRice Mills Backend](https://github.com/hkhamzaa/backendFinalNaz) | A full-featured e-commerce backend for a rice brand — JWT auth, role-based access, order management & product catalog | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
-| [⛓️ AgriBlock](https://github.com/hkhamzaa/AgriBIock_lSproject) | Blockchain-based agricultural supply chain — immutable transaction records for farm-to-consumer traceability | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat&logo=bitcoin&logoColor=white) |
+| [⛓️ AgriBlock](https://github.com/hkhamzaa/AgriBlock_ISproject) | Blockchain-based agricultural supply chain — immutable transaction records for farm-to-consumer traceability | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat&logo=bitcoin&logoColor=white) |
 | [🗺️ City Navigation](https://github.com/hkhamzaa/City_Navigation_System) | Graph-based city navigation system using shortest path algorithms — Dijkstra, A* and more | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![DSA](https://img.shields.io/badge/DSA-FF6B6B?style=flat&logo=buffer&logoColor=white) |
 
 </div>
