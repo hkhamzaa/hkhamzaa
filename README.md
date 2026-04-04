@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hamza.iqbal4170@gmail.com**
 
-- ⚡ Fun fact **mobile photographer with strange thoughts**
+- ⚡ Fun fact **mobile photographer with strange captions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
