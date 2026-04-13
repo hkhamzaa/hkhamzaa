@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Hamza Iqbal</h1>
+<h1 align="center">Hi 👋 Hamza Iqbal here</h1>
 <h3 align="center">Full Stack developer n Photographer</h3>
 
 
