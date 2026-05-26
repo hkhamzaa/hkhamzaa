@@ -3,9 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [Industrial LMS](link will be available soon)
-
-- 🌱 I’m currently learning **Node in more detail with some frontend frameworks**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 💬 Ask me about **mern stack**
 
