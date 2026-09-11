@@ -6,7 +6,7 @@
 
 I build real systems, not just coursework — production backend APIs, an IoT-integrated energy platform, a computer-vision threat detection system now becoming a startup, and a fully automated AI video pipeline running 24/7.
 
-🎓 BS Computer Science @ NUST, Islamabad (2024 – 2028)
+🎓 Computer Science
 💼 Full-Stack Developer @ **Contour Systems** · Previously Full-Stack Dev Intern @ **EmbedAIot**
 🚀 Leading **Detecto** — a multi-threat CCTV anomaly detection system heading toward a commercial startup
 🌱 Currently deep in **Agentic AI** and LLM-driven automation
