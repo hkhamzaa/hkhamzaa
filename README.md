@@ -76,10 +76,6 @@ I engineered a **fully automated, zero-dollar-cost AI video production and publi
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=hkhamzaa&theme=tokyonight&hide_border=true" alt="hkhamzaa's streak stats" />
-</p>
-
-<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hkhamzaa&theme=tokyo-night&hide_border=true" alt="hkhamzaa's activity graph" />
 </p>
 
@@ -105,7 +101,7 @@ Pitched **RelyBill**, a marketplace aggregation platform for service-based SMEs 
 | # | Project | Description |
 |---|---------|-------------|
 | 1. | [**Detecto**](https://github.com/hkhamzaa/detecto-hackathon) | Real-time multi-threat CCTV anomaly detection system built at the Alibaba Cloud x Alkhidmat Foundation Hackathon (Pakistan's largest national hackathon). Fuses YOLOv8 (weapon/object detection), MediaPipe (pose estimation, fall/forceful-motion recognition), and OpenCV background subtraction (object-removal/theft detection) on low-cost CPU-only hardware, with a human-in-the-loop review stage. Now scaling into a commercial security-tech startup. |
-| 2. | [**Claude Plan Sharing**](https://github.com/hkhamzaa/claude-plan-sharing) | A tool to split token usage and session limits equally among N people, with several flexible sharing options. Python, MIT licensed. |
+| 2. | [**Claude Plan Sharing**](https://github.com/hkhamzaa/claude-plan-sharing) | A tool to divide token and usage sessions equally among N people, with multiple flexible sharing options, including the ability to share a session with anyone else. |
 
 ### Full-Stack Web Platforms
 
