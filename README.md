@@ -23,6 +23,32 @@ I build real systems, not just coursework — production backend APIs, an IoT-in
 
 ---
 
+---
+
+## ⚙️ Tech Stack
+
+**Languages:** ![C++](https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PL/SQL](https://img.shields.io/badge/-Oracle_PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Frameworks & Libraries:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/-Hibernate%2FJPA-59666C?style=flat-square&logo=hibernate&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**AI / ML & Computer Vision:** ![YOLOv8](https://img.shields.io/badge/-YOLOv8-111F68?style=flat-square&logo=yolo&logoColor=white) ![MediaPipe](https://img.shields.io/badge/-MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![LLM Integration](https://img.shields.io/badge/-LLM_Integration-412991?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/-Claude_AI-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white) ![AI Workflow Automation](https://img.shields.io/badge/-AI_Workflow_Automation-FF6F00?style=flat-square&logo=zapier&logoColor=white)
+
+**Databases:** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Neo4j](https://img.shields.io/badge/-Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
+
+**Systems & Architecture:** ![IoT](https://img.shields.io/badge/-IoT_Device_Integration-00979D?style=flat-square&logo=internetofthings&logoColor=white) ![Multi-Tenant](https://img.shields.io/badge/-Multi--Tenant_Architecture-4B32C3?style=flat-square) ![RBAC](https://img.shields.io/badge/-RBAC-2E8B57?style=flat-square) ![REST API](https://img.shields.io/badge/-REST_API_Design-02569B?style=flat-square&logo=fastapi&logoColor=white) ![System Design](https://img.shields.io/badge/-System_Design-000000?style=flat-square)
+
+**Payments & Realtime:** ![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white) ![PayPal](https://img.shields.io/badge/-PayPal-00457C?style=flat-square&logo=paypal&logoColor=white) ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white) ![Twilio](https://img.shields.io/badge/-Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white) ![Google Maps API](https://img.shields.io/badge/-Google_Maps_API-4285F4?style=flat-square&logo=googlemaps&logoColor=white) ![Slack API](https://img.shields.io/badge/-Slack_API-4A154B?style=flat-square&logo=slack&logoColor=white)
+
+**Developer Tools & Platforms:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white) ![Upstash](https://img.shields.io/badge/-Upstash-00E9A3?style=flat-square&logo=upstash&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) ![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt&logoColor=white) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Assembly](https://img.shields.io/badge/-x86_Assembly-6E4C13?style=flat-square)
+
+**Creative:** ![Photography](https://img.shields.io/badge/-Mobile_Photography-000000?style=flat-square&logo=adobelightroom&logoColor=white) ![Videography](https://img.shields.io/badge/-Videography-FF6F00?style=flat-square&logo=youtube&logoColor=white)
+
+---
+
+## 🤝 Claude Plan Sharing
+
+[**Claude Plan Sharing**](https://github.com/hkhamzaa/claude-plan-sharing) is a tool to divide token and usage sessions equally among **N people**, with multiple flexible sharing options, including the ability to share a session with anyone else.
+
 ## 🎬 My Automated AI YouTube Channel
 
 <div align="center">
@@ -46,38 +72,8 @@ I engineered a **fully automated, zero-dollar-cost AI video production and publi
 
 </div>
 
----
-
-## ⚙️ Tech Stack
-
-**Languages:** ![C++](https://img.shields.io/badge/-C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PL/SQL](https://img.shields.io/badge/-Oracle_PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white) ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Frameworks & Libraries:** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/-Hibernate%2FJPA-59666C?style=flat-square&logo=hibernate&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**AI / ML & Computer Vision:** ![YOLOv8](https://img.shields.io/badge/-YOLOv8-111F68?style=flat-square&logo=yolo&logoColor=white) ![MediaPipe](https://img.shields.io/badge/-MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![LLM Integration](https://img.shields.io/badge/-LLM_Integration-412991?style=flat-square&logo=openai&logoColor=white) ![Claude](https://img.shields.io/badge/-Claude_AI-D97757?style=flat-square&logo=anthropic&logoColor=white) ![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white) ![AI Workflow Automation](https://img.shields.io/badge/-AI_Workflow_Automation-FF6F00?style=flat-square&logo=zapier&logoColor=white)
-
-**Databases:** ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Neo4j](https://img.shields.io/badge/-Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
-
-**Systems & Architecture:** ![IoT](https://img.shields.io/badge/-IoT_Device_Integration-00979D?style=flat-square&logo=internetofthings&logoColor=white) ![Multi-Tenant](https://img.shields.io/badge/-Multi--Tenant_Architecture-4B32C3?style=flat-square) ![RBAC](https://img.shields.io/badge/-RBAC-2E8B57?style=flat-square) ![REST API](https://img.shields.io/badge/-REST_API_Design-02569B?style=flat-square&logo=fastapi&logoColor=white) ![System Design](https://img.shields.io/badge/-System_Design-000000?style=flat-square)
-
-**Payments & Realtime:** ![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white) ![PayPal](https://img.shields.io/badge/-PayPal-00457C?style=flat-square&logo=paypal&logoColor=white) ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white) ![Twilio](https://img.shields.io/badge/-Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white) ![Google Maps API](https://img.shields.io/badge/-Google_Maps_API-4285F4?style=flat-square&logo=googlemaps&logoColor=white) ![Slack API](https://img.shields.io/badge/-Slack_API-4A154B?style=flat-square&logo=slack&logoColor=white)
-
-**Developer Tools & Platforms:** ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma_ORM-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white) ![Upstash](https://img.shields.io/badge/-Upstash-00E9A3?style=flat-square&logo=upstash&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) ![Qt](https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=qt&logoColor=white) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![Assembly](https://img.shields.io/badge/-x86_Assembly-6E4C13?style=flat-square)
-
-**Creative:** ![Photography](https://img.shields.io/badge/-Mobile_Photography-000000?style=flat-square&logo=adobelightroom&logoColor=white) ![Videography](https://img.shields.io/badge/-Videography-FF6F00?style=flat-square&logo=youtube&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hkhamzaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkhamzaa&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hkhamzaa&theme=tokyo-night&hide_border=true" alt="hkhamzaa's activity graph" />
-</p>
 
 ---
 
@@ -101,7 +97,6 @@ Pitched **RelyBill**, a marketplace aggregation platform for service-based SMEs 
 | # | Project | Description |
 |---|---------|-------------|
 | 1. | [**Detecto**](https://github.com/hkhamzaa/detecto-hackathon) | Real-time multi-threat CCTV anomaly detection system built at the Alibaba Cloud x Alkhidmat Foundation Hackathon (Pakistan's largest national hackathon). Fuses YOLOv8 (weapon/object detection), MediaPipe (pose estimation, fall/forceful-motion recognition), and OpenCV background subtraction (object-removal/theft detection) on low-cost CPU-only hardware, with a human-in-the-loop review stage. Now scaling into a commercial security-tech startup. |
-| 2. | [**Claude Plan Sharing**](https://github.com/hkhamzaa/claude-plan-sharing) | A tool to divide token and usage sessions equally among N people, with multiple flexible sharing options, including the ability to share a session with anyone else. |
 
 ### Full-Stack Web Platforms
 
